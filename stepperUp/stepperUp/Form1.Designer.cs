@@ -28,12 +28,31 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.stepper1 = new stepperUp.Stepper();
+            this.SuspendLayout();
+            // 
+            // stepper1
+            // 
+            this.stepper1.Location = new System.Drawing.Point(63, 96);
+            this.stepper1.Name = "stepper1";
+            this.stepper1.Size = new System.Drawing.Size(373, 314);
+            this.stepper1.TabIndex = 0;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(752, 625);
+            this.Controls.Add(this.stepper1);
+            this.Name = "Form1";
             this.Text = "Form1";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private Stepper stepper1;
     }
 }
 

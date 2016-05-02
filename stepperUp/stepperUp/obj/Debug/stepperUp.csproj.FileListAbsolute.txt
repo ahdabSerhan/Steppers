@@ -1,1 +1,11 @@
 C:\Users\aj_pa\Desktop\stepperUp\stepperUp\stepperUp\bin\Debug\stepperUp.exe.config
+E:\Steppers\stepperUp\stepperUp\bin\Debug\stepperUp.exe.config
+E:\Steppers\stepperUp\stepperUp\bin\Debug\stepperUp.exe
+E:\Steppers\stepperUp\stepperUp\bin\Debug\stepperUp.pdb
+E:\Steppers\stepperUp\stepperUp\obj\Debug\stepperUp.csprojResolveAssemblyReference.cache
+E:\Steppers\stepperUp\stepperUp\obj\Debug\stepperUp.Form1.resources
+E:\Steppers\stepperUp\stepperUp\obj\Debug\stepperUp.Properties.Resources.resources
+E:\Steppers\stepperUp\stepperUp\obj\Debug\stepperUp.Stepper.resources
+E:\Steppers\stepperUp\stepperUp\obj\Debug\stepperUp.csproj.GenerateResource.Cache
+E:\Steppers\stepperUp\stepperUp\obj\Debug\stepperUp.exe
+E:\Steppers\stepperUp\stepperUp\obj\Debug\stepperUp.pdb
