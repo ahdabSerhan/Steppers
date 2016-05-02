@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("stepperUp")]
+[assembly: AssemblyTitle("SteppersController")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("stepperUp")]
+[assembly: AssemblyProduct("SteppersController")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c3598446-be55-49e3-8aa3-46a6be1345d3")]
+[assembly: Guid("e22bac20-b6b8-41b6-8db3-d5cf1990c896")]
 
 // Version information for an assembly consists of the following four values:
 //

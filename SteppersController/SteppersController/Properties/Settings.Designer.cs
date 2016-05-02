@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace stepperUp.Properties
+namespace SteppersController.Properties
 {
 
 
